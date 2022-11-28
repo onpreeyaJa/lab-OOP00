@@ -1,2 +1,4 @@
 # lab-OOP00
-this is first repository
+อรปรียา จันทะโคตร
+653450107-5
+onpreeya.ja@kkumail.com
